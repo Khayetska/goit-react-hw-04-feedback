@@ -1,0 +1,10 @@
+.statisticsTitle {
+    margin-top: 30px;
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+.statisticsList {
+    margin-top: 15px;
+    font-size: 18px;
+}
